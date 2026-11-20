@@ -1,0 +1,7 @@
+Adyar average: 48.0
+"Adyar' OR '1'='1" => None
+"O'Brien" => 60.0
+missing_column.csv : ERROR: missing required column(s)
+wrong_delimiter.csv : ERROR: missing required column(s)
+empty.csv : ERROR: missing required column(s)
+bad_encoding.csv : ERROR: encoding is not UTF-8

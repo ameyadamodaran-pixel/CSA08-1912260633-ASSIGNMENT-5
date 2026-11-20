@@ -1,0 +1,13 @@
+1 stations | loops | 0.000226s | groups=365 | verified=True
+1 stations | pandas_groupby | 0.002352s | groups=365 | verified=True
+1 stations | sqlite_groupby | 0.000862s | groups=365 | verified=True
+SQL insert/load time for 1 stations, 365 rows: 0.000216s
+12 stations | loops | 0.003450s | groups=4380 | verified=True
+12 stations | pandas_groupby | 0.005986s | groups=4380 | verified=True
+12 stations | sqlite_groupby | 0.059037s | groups=4380 | verified=True
+SQL insert/load time for 12 stations, 4380 rows: 0.002527s
+120 stations | loops | 0.053252s | groups=43800 | verified=True
+120 stations | pandas_groupby | 0.031778s | groups=43800 | verified=True
+120 stations | sqlite_groupby | 0.094413s | groups=43800 | verified=True
+SQL insert/load time for 120 stations, 43800 rows: 0.025114s
+Results saved under output/. pandas available: True

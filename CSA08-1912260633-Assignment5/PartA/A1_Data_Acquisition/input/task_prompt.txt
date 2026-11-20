@@ -1,0 +1,1 @@
+Inspect station CSV structure and data quality; design SQLite tables and map columns; answer three board questions with CSV scanning or SQL; compare CSV scan and indexed SQLite time/space.

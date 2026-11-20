@@ -1,0 +1,1 @@
+Plan debugging with print/assert/logging/pdb and profiling with perf_counter, timeit and cProfile; compare prints with logging/debugger.

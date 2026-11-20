@@ -1,0 +1,10 @@
+Sentiment labels:
+positive | Roads are clean and the bus was fast.
+negative | Smoke from the factory, air is bad.
+negative | The staff were not helpful.
+positive | Not bad, service improved.
+negative | The road is not clean and the traffic is slow.
+positive | Air quality is good today.
+Summary: The road is not clean and the traffic is slow. Not bad, service improved.
+Chatbot demo: Average PM2.5 for Adyar: 49.0
+Limitations: small lexicon, negation scope is simplistic, sarcasm/context are missed, and chatbot only handles a narrow pattern.

@@ -1,0 +1,1 @@
+Benchmark script generates synthetic station readings at three scales (1, 12, and 120 stations) and compares loop-based aggregation, pandas groupby (if pandas is installed), and SQLite GROUP BY. Output is recorded in `output/benchmark_results.csv`. Run from this folder: `python main.py`.

@@ -1,0 +1,1 @@
+Input is intentionally messy test data. It includes missing fields, a negative PM2.5 value, Fahrenheit temperatures (flagged by high temperature values), duplicate readings, and an extreme PM2.5 value (>999). Run `python main.py` from this folder or from the repository root with the script path.

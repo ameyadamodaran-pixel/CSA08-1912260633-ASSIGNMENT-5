@@ -1,0 +1,1 @@
+Choose charts for monthly trend, station comparison, temperature relationship and worst hours; design a daily summary table; compare loops and SQL aggregation.

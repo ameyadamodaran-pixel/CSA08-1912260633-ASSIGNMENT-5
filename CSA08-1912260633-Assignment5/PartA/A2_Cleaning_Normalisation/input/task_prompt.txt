@@ -1,0 +1,1 @@
+Define cleaning rules for missing, impossible, duplicate and Fahrenheit readings; design min-max and z-score normalisation; standardise dates, station names and numeric formats.

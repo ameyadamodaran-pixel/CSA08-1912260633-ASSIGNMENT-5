@@ -1,0 +1,1 @@
+Design lexicon sentiment with negation, extractive summarisation and a rule-based chatbot; discuss limitations and compare with ML.

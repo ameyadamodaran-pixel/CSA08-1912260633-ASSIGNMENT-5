@@ -1,0 +1,1 @@
+Cases to try in `main.py`: normal name `Adyar`; apostrophe name `O'Brien`; SQL-like input `Adyar' OR '1'='1`; missing column; wrong delimiter; empty file; invalid UTF-8 encoding. The script demonstrates placeholders for names and reports safe handling of the listed file errors.
